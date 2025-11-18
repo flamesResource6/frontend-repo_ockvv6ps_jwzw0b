@@ -20,7 +20,7 @@ function App() {
 
       <footer className="relative border-t border-white/10">
         <div className="max-w-7xl mx-auto px-6 py-10 flex flex-col md:flex-row items-center justify-between gap-4">
-          <p className="text-blue-200/70 text-sm">© {new Date().getFullYear()} Your Name — All rights reserved.</p>
+          <p className="text-blue-200/70 text-sm">© {new Date().getFullYear()} M.Numan Ali — All rights reserved.</p>
           <div className="text-blue-200/70 text-sm">Available for freelance & full‑time opportunities</div>
         </div>
       </footer>

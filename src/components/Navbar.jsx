@@ -27,7 +27,7 @@ export default function Navbar() {
         <a href="#home" className="flex items-center gap-3 group">
           <div className="h-9 w-9 rounded-xl bg-gradient-to-tr from-blue-500 via-indigo-500 to-cyan-400 ring-1 ring-white/20 shadow-lg shadow-blue-500/30 group-hover:scale-105 transition" />
           <div className="leading-tight">
-            <p className="text-white font-semibold tracking-tight">Your Name</p>
+            <p className="text-white font-semibold tracking-tight">M.Numan Ali</p>
             <p className="text-xs text-blue-200/70">UI/UX • Web • Software</p>
           </div>
         </a>

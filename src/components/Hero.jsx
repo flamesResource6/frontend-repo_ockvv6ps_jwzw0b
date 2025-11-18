@@ -19,7 +19,8 @@ export default function Hero() {
             transition={{ duration: 0.7 }}
             className="text-5xl md:text-6xl font-extrabold tracking-tight text-white"
           >
-            UI/UX Designer, Web Developer, and Problem Solver
+            Hi, I’m M.Numan Ali
+            <span className="block text-xl md:text-2xl mt-3 font-semibold text-blue-200/90">UI/UX Designer, Web Developer, and Problem Solver</span>
           </motion.h1>
 
           <motion.p
